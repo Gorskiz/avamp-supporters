@@ -1,5 +1,12 @@
 {
-  "updated_at": "2025-11-21T23:47:42.681Z",
-  "total_supporters": 0,
-  "supporters": []
+  "updated_at": "2025-11-21T23:58:31.470Z",
+  "total_supporters": 1,
+  "supporters": [
+    {
+      "name": "testuser123",
+      "tier": "VIP Supporter",
+      "since": "2025-11-21",
+      "source": "stripe"
+    }
+  ]
 }
