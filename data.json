@@ -1,5 +1,41 @@
 {
-  "updated_at": "2025-11-24T03:49:52.385Z",
-  "total_supporters": 0,
-  "supporters": []
+  "updated_at": "2025-11-24T03:50:27.006Z",
+  "total_supporters": 3,
+  "supporters": [
+    {
+      "name": "Supporter 5",
+      "tier": "Supporter",
+      "since": "2025-11-24",
+      "source": "stripe",
+      "tier_color": "#7c3aed",
+      "name_color": "#ffffff"
+    },
+    {
+      "name": "Test Supporter",
+      "tier": "Supporter",
+      "since": "2025-11-23",
+      "source": "stripe",
+      "tier_color": "#7c3aed",
+      "name_color": "#ffffff"
+    },
+    {
+      "name": "IamaTEST",
+      "tier": "Supporter HIGH",
+      "since": "2025-11-24",
+      "source": "stripe",
+      "tier_color": "#7c3aed",
+      "name_color": "#ffffff"
+    }
+  ],
+  "tiers": [],
+  "board_settings": {
+    "board_title": "Our Supporters",
+    "layout_mode": 0,
+    "grid_columns": 2,
+    "names_per_page": 20,
+    "page_display_time": 10,
+    "header_color": "#7c3aed",
+    "text_color": "#ffffff",
+    "bg_opacity": 0.8
+  }
 }
