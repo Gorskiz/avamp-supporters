@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-24T16:25:50.434Z",
+  "updated_at": "2025-11-24T16:29:55.075Z",
   "total_supporters": 3,
   "supporters": [
     {
@@ -32,7 +32,7 @@
     "board_title": "Our Supporters",
     "layout_mode": 1,
     "grid_columns": 2,
-    "names_per_page": 20,
+    "names_per_page": 26,
     "page_display_time": 10,
     "header_color": "#7c3aed",
     "text_color": "#ffffff",
