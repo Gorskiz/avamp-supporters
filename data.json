@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-02T23:36:09.097Z",
+  "updated_at": "2025-12-02T23:36:09.795Z",
   "total_supporters": 4,
   "supporters": [
     {
@@ -7,7 +7,7 @@
       "tier": "Supporter",
       "since": "2025-11-24",
       "source": "stripe",
-      "tier_color": "#4bed40",
+      "tier_color": "#5ded40",
       "name_color": "#ffffff"
     },
     {
@@ -15,7 +15,7 @@
       "tier": "Supporter",
       "since": "2025-11-23",
       "source": "stripe",
-      "tier_color": "#4bed40",
+      "tier_color": "#5ded40",
       "name_color": "#ffffff"
     },
     {
@@ -23,7 +23,7 @@
       "tier": "Supporter",
       "since": "2025-12-02",
       "source": "stripe",
-      "tier_color": "#4bed40",
+      "tier_color": "#5ded40",
       "name_color": "#ffffff"
     },
     {
@@ -38,7 +38,7 @@
   "tiers": [
     {
       "name": "Supporter",
-      "color_header": "#4bed40",
+      "color_header": "#5ded40",
       "color_supporters": "#ffffff"
     },
     {
