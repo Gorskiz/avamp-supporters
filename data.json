@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-02T23:36:10.500Z",
+  "updated_at": "2025-12-02T23:36:50.840Z",
   "total_supporters": 4,
   "supporters": [
     {
@@ -8,7 +8,7 @@
       "since": "2025-11-24",
       "source": "stripe",
       "tier_color": "#24ad1a",
-      "name_color": "#ffffff"
+      "name_color": "#d12e2e"
     },
     {
       "name": "Test Supporter",
@@ -16,7 +16,7 @@
       "since": "2025-11-23",
       "source": "stripe",
       "tier_color": "#24ad1a",
-      "name_color": "#ffffff"
+      "name_color": "#d12e2e"
     },
     {
       "name": "Weed_Messiah",
@@ -24,7 +24,7 @@
       "since": "2025-12-02",
       "source": "stripe",
       "tier_color": "#24ad1a",
-      "name_color": "#ffffff"
+      "name_color": "#d12e2e"
     },
     {
       "name": "IamaTEST",
@@ -39,7 +39,7 @@
     {
       "name": "Supporter",
       "color_header": "#24ad1a",
-      "color_supporters": "#ffffff"
+      "color_supporters": "#d12e2e"
     },
     {
       "name": "Supporter 2",
