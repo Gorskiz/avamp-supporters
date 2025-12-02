@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-02T21:27:39.941Z",
+  "updated_at": "2025-12-02T21:43:05.047Z",
   "total_supporters": 4,
   "supporters": [
     {
@@ -49,7 +49,7 @@
     "grid_column_spacing": 30,
     "names_per_page": 26,
     "page_display_time": 10,
-    "header_color": "#000000",
+    "header_color": "#c03939",
     "text_color": "#aa00cc",
     "bg_opacity": 0.8
   }
