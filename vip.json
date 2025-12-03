@@ -1,18 +1,13 @@
 {
-  "updated_at": "2025-12-03T04:02:56.969Z",
+  "updated_at": "2025-12-03T21:17:42.267Z",
   "allowed_users": [
-    "[1] Local Player",
-    "[1]Local Player",
-    "Cache Busting !",
-    "Local Player",
-    "Test 342434",
-    "test 53455",
-    "Test 55",
-    "test 6543",
-    "test 7568",
-    "Test Supporter",
-    "Test User 3",
-    "TEst user 9",
-    "Weed_Messiah"
+    "Example Supporter 1",
+    "Example Supporter 2",
+    "Example Supporter 3",
+    "Example Supporter 4",
+    "Example Supporter 5",
+    "Example Supporter 6",
+    "Example Supporter 7",
+    "Example Supporter 8"
   ]
 }
