@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T04:02:48.811Z",
-  "total_supporters": 12,
+  "updated_at": "2025-12-03T04:02:56.305Z",
+  "total_supporters": 13,
   "supporters": [
     {
       "name": "[1] Local Player",
@@ -36,6 +36,14 @@
     },
     {
       "name": "Test 342434",
+      "tier": "Supporter",
+      "since": "2025-12-03",
+      "source": "stripe",
+      "tier_color": "#24ad1a",
+      "name_color": "#d12e2e"
+    },
+    {
+      "name": "test 53455",
       "tier": "Supporter",
       "since": "2025-12-03",
       "source": "stripe",
