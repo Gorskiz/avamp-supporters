@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-03T02:58:02.647Z",
+  "updated_at": "2025-12-03T03:03:48.558Z",
   "total_supporters": 3,
   "supporters": [
     {
@@ -41,7 +41,7 @@
   ],
   "board_settings": {
     "board_title": "Our Supporters",
-    "layout_mode": 1,
+    "layout_mode": 0,
     "grid_columns": 2,
     "grid_column_spacing": 30,
     "names_per_page": 26,
