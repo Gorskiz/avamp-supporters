@@ -1,7 +1,15 @@
 {
-  "updated_at": "2025-12-03T03:03:48.558Z",
-  "total_supporters": 3,
+  "updated_at": "2025-12-03T03:26:08.283Z",
+  "total_supporters": 4,
   "supporters": [
+    {
+      "name": "[1]Local Player",
+      "tier": "Supporter",
+      "since": "2025-12-03",
+      "source": "stripe",
+      "tier_color": "#24ad1a",
+      "name_color": "#d12e2e"
+    },
     {
       "name": "Cache Busting !",
       "tier": "Supporter",
