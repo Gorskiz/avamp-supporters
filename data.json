@@ -1,108 +1,68 @@
 {
-  "updated_at": "2025-12-03T04:02:56.305Z",
-  "total_supporters": 13,
+  "updated_at": "2025-12-03T21:17:41.196Z",
+  "total_supporters": 8,
   "supporters": [
     {
-      "name": "[1] Local Player",
+      "name": "Example Supporter 1",
       "tier": "Supporter",
       "since": "2025-12-03",
-      "source": "stripe",
+      "source": "manual",
       "tier_color": "#24ad1a",
       "name_color": "#d12e2e"
     },
     {
-      "name": "[1]Local Player",
+      "name": "Example Supporter 2",
       "tier": "Supporter",
       "since": "2025-12-03",
-      "source": "stripe",
+      "source": "manual",
       "tier_color": "#24ad1a",
       "name_color": "#d12e2e"
     },
     {
-      "name": "Cache Busting !",
+      "name": "Example Supporter 3",
       "tier": "Supporter",
       "since": "2025-12-03",
-      "source": "stripe",
+      "source": "manual",
       "tier_color": "#24ad1a",
       "name_color": "#d12e2e"
     },
     {
-      "name": "Local Player",
+      "name": "Example Supporter 4",
       "tier": "Supporter",
       "since": "2025-12-03",
-      "source": "stripe",
+      "source": "manual",
       "tier_color": "#24ad1a",
       "name_color": "#d12e2e"
     },
     {
-      "name": "Test 342434",
+      "name": "Example Supporter 5",
       "tier": "Supporter",
       "since": "2025-12-03",
-      "source": "stripe",
+      "source": "manual",
       "tier_color": "#24ad1a",
       "name_color": "#d12e2e"
     },
     {
-      "name": "test 53455",
+      "name": "Example Supporter 6",
       "tier": "Supporter",
       "since": "2025-12-03",
-      "source": "stripe",
+      "source": "manual",
       "tier_color": "#24ad1a",
       "name_color": "#d12e2e"
     },
     {
-      "name": "Test 55",
+      "name": "Example Supporter 7",
       "tier": "Supporter",
       "since": "2025-12-03",
-      "source": "stripe",
+      "source": "manual",
       "tier_color": "#24ad1a",
       "name_color": "#d12e2e"
     },
     {
-      "name": "test 6543",
+      "name": "Example Supporter 8",
       "tier": "Supporter",
       "since": "2025-12-03",
-      "source": "stripe",
-      "tier_color": "#24ad1a",
-      "name_color": "#d12e2e"
-    },
-    {
-      "name": "test 7568",
-      "tier": "Supporter",
-      "since": "2025-12-03",
-      "source": "stripe",
-      "tier_color": "#24ad1a",
-      "name_color": "#d12e2e"
-    },
-    {
-      "name": "Test Supporter",
-      "tier": "Supporter",
-      "since": "2025-11-23",
-      "source": "stripe",
-      "tier_color": "#24ad1a",
-      "name_color": "#d12e2e"
-    },
-    {
-      "name": "Test User 3",
-      "tier": "Supporter",
-      "since": "2025-12-03",
-      "source": "stripe",
-      "tier_color": "#24ad1a",
-      "name_color": "#d12e2e"
-    },
-    {
-      "name": "TEst user 9",
-      "tier": "Supporter",
-      "since": "2025-12-03",
-      "source": "stripe",
-      "tier_color": "#24ad1a",
-      "name_color": "#d12e2e"
-    },
-    {
-      "name": "Weed_Messiah",
-      "tier": "Supporter",
-      "since": "2025-12-02",
-      "source": "stripe",
+      "source": "manual",
       "tier_color": "#24ad1a",
       "name_color": "#d12e2e"
     }
