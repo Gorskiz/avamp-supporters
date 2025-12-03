@@ -1,9 +1,33 @@
 {
-  "updated_at": "2025-12-03T21:17:41.196Z",
-  "total_supporters": 8,
+  "updated_at": "2025-12-03T21:29:26.347Z",
+  "total_supporters": 12,
   "supporters": [
     {
       "name": "Example Supporter 1",
+      "tier": "Supporter",
+      "since": "2025-12-03",
+      "source": "manual",
+      "tier_color": "#24ad1a",
+      "name_color": "#d12e2e"
+    },
+    {
+      "name": "Example Supporter 10",
+      "tier": "Supporter",
+      "since": "2025-12-03",
+      "source": "manual",
+      "tier_color": "#24ad1a",
+      "name_color": "#d12e2e"
+    },
+    {
+      "name": "Example Supporter 11",
+      "tier": "Supporter",
+      "since": "2025-12-03",
+      "source": "manual",
+      "tier_color": "#24ad1a",
+      "name_color": "#d12e2e"
+    },
+    {
+      "name": "Example Supporter 12",
       "tier": "Supporter",
       "since": "2025-12-03",
       "source": "manual",
@@ -60,6 +84,14 @@
     },
     {
       "name": "Example Supporter 8",
+      "tier": "Supporter",
+      "since": "2025-12-03",
+      "source": "manual",
+      "tier_color": "#24ad1a",
+      "name_color": "#d12e2e"
+    },
+    {
+      "name": "Example Supporter 9",
       "tier": "Supporter",
       "since": "2025-12-03",
       "source": "manual",
