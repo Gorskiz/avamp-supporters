@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-16T06:47:53.800Z",
-  "total_supporters": 13,
+  "updated_at": "2025-12-16T06:49:16.016Z",
+  "total_supporters": 14,
   "supporters": [
     {
       "name": "Ely Gordon",
@@ -103,6 +103,14 @@
       "tier": "Supporter",
       "since": "2025-12-03",
       "source": "manual",
+      "tier_color": "#7c3aed",
+      "name_color": "#ffffff"
+    },
+    {
+      "name": "Weed_Messiah",
+      "tier": "Supporter",
+      "since": "+057928-01-03",
+      "source": "stripe",
       "tier_color": "#7c3aed",
       "name_color": "#ffffff"
     }
