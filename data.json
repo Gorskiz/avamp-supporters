@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T05:23:48.759Z",
+  "updated_at": "2026-11-16T21:26:34.440Z",
   "total_supporters": 13,
   "supporters": [
     {
@@ -100,8 +100,8 @@
     },
     {
       "name": "Weed_Messiah",
-      "tier": "Supporter",
-      "since": "2025-12-16",
+      "tier": "Unknown Tier",
+      "since": "2025-12-15",
       "source": "stripe",
       "tier_color": "#7c3aed",
       "name_color": "#ffffff"
